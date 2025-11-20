@@ -29,5 +29,7 @@ I rebuilt the layout using HTML, CSS and Bootstrap to practice:
 
 ## 📘 Notes
 This project is created only for learning purposes.
-URL
+
+## 🔗 Live Demo
 https://yuna-atsuji.github.io/WCBcafe/
+
